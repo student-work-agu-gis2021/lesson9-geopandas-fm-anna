@@ -100,7 +100,7 @@ print(min(movements["distance"]))
 # - Finally, save the movements of into a Shapefile called ``some_movements.shp``
 
 # YOUR CODE HERE 7 to save as Shapefile
-
+fp = 'some_movements.'
 
 # CODE FOR TESTING YOUR SOLUTION
 
